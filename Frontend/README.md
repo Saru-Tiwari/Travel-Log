@@ -1,3 +1,4 @@
+
 # 🌍 Travel Log
 
 A modern travel experience sharing platform where users can record, organize, and share their travel adventures. Users can create travel logs with photos, locations, descriptions, and travel tips through an intuitive and responsive interface.
@@ -87,12 +88,12 @@ Travel-Log/
 # Screenshots
 
 ## Home Page
+<img width="1898" height="842" alt="Screenshot 2026-07-23 195356" src="https://github.com/user-attachments/assets/031623ee-6fc9-4687-814c-05efc51a2921" />
 
-![Home Page](screenshots/home.png)
 
 ## Login
+<img width="572" height="783" alt="Screenshot 2026-07-23 215637" src="https://github.com/user-attachments/assets/7111847f-16b0-4cc3-a3d4-0d6c53b688a9" />
 
-![Login](screenshots/login.png)
 
 ## Create Travel Log
 
