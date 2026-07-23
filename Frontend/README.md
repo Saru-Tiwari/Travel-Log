@@ -84,100 +84,20 @@ Travel-Log/
 │
 └── Backend/   (Coming Soon)
 ```
+# Screenshots
 
-## 🚀 Installation
+## Home Page
 
-Clone the repository
+![Home Page](screenshots/home.png)
 
-```bash
-git clone https://github.com/Saru-Tiwari/Travel-Log.git
-```
+## Login
 
-Go to the frontend
+![Login](screenshots/login.png)
 
-```bash
-cd Travel-Log/Frontend
-```
+## Create Travel Log
 
-Install dependencies
+![Create Travel Log](screenshots/create-post.png)
 
-```bash
-npm install
-```
+## Profile
 
-Run the project
-
-```bash
-npm run dev
-```
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Login
-- Create Travel Log
-- Explore Page
-- Profile Page
-
-## 🎯 Future Improvements
-
-- Google Maps integration
-- Location-based recommendations
-- Comments and likes
-- Bookmark favorite destinations
-- Dark mode
-- Weather information
-- AI travel itinerary suggestions
-
-## 👩‍💻 Author
-
-**Saru Tiwari**
-
-- LinkedIn: https://linkedin.com/in/saru-tiwari
-- GitHub: https://github.com/Saru-Tiwari
-Go to the frontend
-
-```bash
-cd Travel-Log/Frontend
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the project
-
-```bash
-npm run dev
-```
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Login
-- Create Travel Log
-- Explore Page
-- Profile Page
-
-## 🎯 Future Improvements
-
-- Google Maps integration
-- Location-based recommendations
-- Comments and likes
-- Bookmark favorite destinations
-- Dark mode
-- Weather information
-- AI travel itinerary suggestions
-
-## 👩‍💻 Author
-
-**Saru Tiwari**
-
-- LinkedIn: https://linkedin.com/in/saru-tiwari
-- GitHub: https://github.com/Saru-Tiwari
+![Profile](screenshots/profile.png)
