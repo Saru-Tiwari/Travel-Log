@@ -92,7 +92,12 @@ Travel-Log/
 
 
 ## Login
-<img width="572" height="783" alt="Screenshot 2026-07-23 215637" src="https://github.com/user-attachments/assets/7111847f-16b0-4cc3-a3d4-0d6c53b688a9" />
+<img width="577" height="787" alt="Screenshot 2026-07-23 222145" src="https://github.com/user-attachments/assets/1c605832-cc66-40db-a55e-059d292a3334" />
+
+
+
+## Register
+<img width="562" height="907" alt="Screenshot 2026-07-23 215711" src="https://github.com/user-attachments/assets/122f2346-2d6a-475d-97cd-6246433d9976" />
 
 
 ## Create Travel Log
