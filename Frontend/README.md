@@ -1,16 +1,183 @@
-# React + Vite
+# 🌍 Travel Log
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern travel experience sharing platform where users can record, organize, and share their travel adventures. Users can create travel logs with photos, locations, descriptions, and travel tips through an intuitive and responsive interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- User authentication and authorization
+- Create, edit, and delete travel logs
+- Upload travel images
+- Add travel descriptions and tips
+- Responsive UI for desktop and mobile
+- Search and browse travel experiences
+- Interactive and modern user interface
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend
+- React.js
+- Vite
+- JavaScript
+- CSS
+- Axios
 
-## Expanding the ESLint configuration
+### Backend 
+- Node.js
+- Express.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Database 
+- MongoDB
+
+## 📂 Project Structure
+
+```
+Travel-Log/
+│
+├── Frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── Backend/  
+```
+
+
+# 🌍 Travel Log
+
+A modern travel experience sharing platform where users can record, organize, and share their travel adventures. Users can create travel logs with photos, locations, descriptions, and travel tips through an intuitive and responsive interface.
+
+## ✨ Features
+
+- User authentication and authorization
+- Create, edit, and delete travel logs
+- Upload travel images
+- Add travel descriptions and tips
+- Responsive UI for desktop and mobile
+- Search and browse travel experiences
+- Interactive and modern user interface
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- JavaScript
+- CSS
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+
+### Database 
+- MongoDB
+
+## 📂 Project Structure
+
+```
+Travel-Log/
+│
+├── Frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── Backend/   (Coming Soon)
+```
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Saru-Tiwari/Travel-Log.git
+```
+
+Go to the frontend
+
+```bash
+cd Travel-Log/Frontend
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+- Home Page
+- Login
+- Create Travel Log
+- Explore Page
+- Profile Page
+
+## 🎯 Future Improvements
+
+- Google Maps integration
+- Location-based recommendations
+- Comments and likes
+- Bookmark favorite destinations
+- Dark mode
+- Weather information
+- AI travel itinerary suggestions
+
+## 👩‍💻 Author
+
+**Saru Tiwari**
+
+- LinkedIn: https://linkedin.com/in/saru-tiwari
+- GitHub: https://github.com/Saru-Tiwari
+Go to the frontend
+
+```bash
+cd Travel-Log/Frontend
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the project
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+- Home Page
+- Login
+- Create Travel Log
+- Explore Page
+- Profile Page
+
+## 🎯 Future Improvements
+
+- Google Maps integration
+- Location-based recommendations
+- Comments and likes
+- Bookmark favorite destinations
+- Dark mode
+- Weather information
+- AI travel itinerary suggestions
+
+## 👩‍💻 Author
+
+**Saru Tiwari**
+
+- LinkedIn: https://linkedin.com/in/saru-tiwari
+- GitHub: https://github.com/Saru-Tiwari
